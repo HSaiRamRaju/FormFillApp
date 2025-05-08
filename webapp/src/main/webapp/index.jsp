@@ -10,6 +10,12 @@
     <br>
     <br>
 
+    <label for="age"><b>Age</b></label>
+    <input type="text" placeholder="Enter the Age" name="Age" id="Age" required>
+    <br>
+    <br>
+
+
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter the Email" name="email" id="email" required>
     <br>
